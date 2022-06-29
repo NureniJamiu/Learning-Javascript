@@ -20,7 +20,6 @@ function generate() {
                 outputEl1.textContent += passwd1[i]
                 outputEl2.textContent += passwd2[i]
             }
-        }
-        
+        } 
     }
 }
